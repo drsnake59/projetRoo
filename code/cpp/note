@@ -1,0 +1,14 @@
+Regles fixees 000->0
+			  500->0
+			  111->0
+			  511->4
+			  115->4
+			  510->1
+			  105->1
+			  
+			  regle gcd->r
+			  
+			  codées par 
+			  
+			  rules[g*36+c*6+d]=r
+			  	
